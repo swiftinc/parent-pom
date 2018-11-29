@@ -12,6 +12,21 @@
         <sourceReleaseAssemblyDescriptor>source-release</sourceReleaseAssemblyDescriptor>
     </properties>
 
+    <name>SWIFT parent pom</name>
+    <description>Maven parent pom for SWIFT artifacts.</description>
+    <url>https://github.com/swiftinc/parent-pom.git</url>
+
+    <developers>
+        <developer>
+            <name>Richard Davis</name>
+            <email>richard.davis[skip this] at swift.com</email>
+        </developer>
+        <developer>
+            <name>Yin Xu</name>
+            <email>yin.xu[skip this] at swift.com</email>
+        </developer>
+    </developers>
+
     <distributionManagement>
         <repository>
             <id>sonatype-nexus-staging</id>

@@ -1,5 +1,7 @@
 # parent-pom
 
+[![Maven Central](https://img.shields.io/maven-central/v/com.swift/parent-pom.svg?label=Maven%20Central)](https://search.maven.org/search?q=g:%22com.swift%22%20AND%20a:%22parent-pom%22)
+
 ## Overview
 
 This is the parent pom for all projects maintained by [SWIFT developers](https://github.com/orgs/swiftinc/people).
